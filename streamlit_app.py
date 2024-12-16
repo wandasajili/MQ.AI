@@ -11,9 +11,10 @@ st.set_page_config(page_title="SMK MADINATUL QUR'AN", page_icon="logo/logo-SMK-M
 # sidebar
 
 # st.sidebar.image("logo/baner.jpg", width=400) 
-# st.image("logo/logo_MQ.png", width=120) 
 
 # jangan di apaapain
+
+
 st.title("MQ.AI")
 sekolah = st.text_input("Nama Sekolah?")
 pertanyaan = st.text_input("Silahkan masukan pertanyaan anda!")
